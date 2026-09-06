@@ -13,3 +13,15 @@ This repository documents my progress as I learn Git and GitHub.
 - Make commits
 - Work with branches
 - Learn push and pull
+
+## Local Git Practice
+
+This section was added locally using Visual Studio Code.
+
+### Workflow
+
+- Edit a file locally
+- Check changes with git status
+- Stage changes with git add
+- Save a snapshot with git commit
+- Send changes to GitHub with git push
