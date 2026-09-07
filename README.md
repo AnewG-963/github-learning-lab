@@ -25,3 +25,7 @@ This section was added locally using Visual Studio Code.
 - Stage changes with git add
 - Save a snapshot with git commit
 - Send changes to GitHub with git push
+
+## Remote Git Practice
+
+This section was added directly on GitHub to practice pulling remote changes to my local repository.
