@@ -29,3 +29,10 @@ This section was added locally using Visual Studio Code.
 ## Remote Git Practice
 
 This section was added directly on GitHub to practice pulling remote changes to my local repository.
+
+
+## Branch Practice
+
+This section was created on the git-practice branch.
+
+The purpose of this branch is to practice making changes without modifying the main branch.
